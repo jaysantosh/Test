@@ -1,3 +1,3 @@
-module github.com/Shivam-Patel-G/blackhole-blockchain/wallet-backend
+module github.com/jaysantosh/Test/wallet-backend
 
 go 1.24.2

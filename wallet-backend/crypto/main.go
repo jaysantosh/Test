@@ -2,6 +2,6 @@ package crypto
 
 var age int
 
-func testingThis() int {
+func TestingThis() int {
 	return age
 }
