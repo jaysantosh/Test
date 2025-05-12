@@ -1,8 +1,8 @@
-go 1.24.2
+// go 1.24.2
 
-use (
-	./parachains
-	./relay-chain
-	./wallet-backend
-	./wallet-frontend
-)
+// use (
+// 	./parachains
+// 	./relay-chain
+// 	./wallet-backend
+// 	./wallet-frontend
+// )
