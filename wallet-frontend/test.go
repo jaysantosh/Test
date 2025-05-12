@@ -10,4 +10,5 @@ import (
 func main() {
 	fmt.Println(crypto.TestingThis())
 	fmt.Println("utils: ", utils.Show())
+	// Goodbye()
 }
